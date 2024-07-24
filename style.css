@@ -1,0 +1,76 @@
+*{
+    padding: 0px;
+    margin: 0px;
+    box-sizing: border-box;
+    font-family: "Figtree", sans-serif;
+}
+
+body{
+    background-color: #f5c000;
+    margin: 25px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+
+}
+
+.card{
+    background-color: rgb(255, 255, 255);
+    border-radius: 15px;
+    border: 2px solid black;
+    box-shadow: 10px 10px 0px rgba(0, 0, 0, 5);
+    overflow: hidden;
+    width: 350px;
+    padding: 15px;
+}
+
+.card img{
+    border-radius: 15px;
+    width: 100%;
+    height: auto;
+}
+
+.learn{
+    background-color:  #f5c000;
+    font-size: 15px;
+    display: inline-block;
+    padding: 5px 10px;
+    margin: 10px 10px 10px 0px;
+    border-radius: 5px;
+}
+
+.publicado{
+    font-size: 15px;
+    font-weight: 600;
+}
+
+h1{
+    font-size: 22px;
+    color:  #f5c000;
+    font-weight: bold;
+    margin: 15px 15px 15px 0px;
+    
+}
+
+p{
+    font-weight: 400;
+}
+
+.avatar-container{
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    margin-top: 15px;
+}
+
+.avatar-container img {
+    width: 30px;
+}
+
+.avatar-container h2{
+    font-size: 15px;
+    font-weight: 700;
+}
+
