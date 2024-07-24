@@ -2,3 +2,6 @@ En este repositorio encontraras el ejercicio Blog Preview Card otorgado por fron
 
 >[!NOTE]
 Espero les guste!
+
+>[!NOTE]
+Newbiw tutorial!
